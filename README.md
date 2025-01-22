@@ -18,7 +18,6 @@
 
 ### GitHub Stats.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushaldarji7182&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="kaushaldarji7182" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushaldarji7182&show_icons=true&theme=dark&hide_border=true&locale=en" alt="kaushaldarji7182" /></p>
 
