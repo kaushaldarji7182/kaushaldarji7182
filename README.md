@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaushal Darji</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kaushaldarji7182)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)](#)
+
+
 <a href="https://twitter.com/kaushal2118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushal2118" height="30" width="40" /></a>
 <a href="https://instagram.com/kaushal._.2118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushal._.2118" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kaushal2118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushal2118" height="30" width="40" /></a>
