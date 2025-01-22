@@ -10,7 +10,6 @@ I'm a DevOps Engineer at UST with a strong passion for learning and exploring ne
 - 📫 How to reach me **kaushaldarji7182@gmail.com**
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/dkaushaldarji7182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-panchal-45a353219" height="30" width="40" /></a>
 <a href="https://twitter.com/kaushal2118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushal2118" height="30" width="40" /></a>
 <a href="https://instagram.com/kaushal._.2118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushal._.2118" height="30" width="40" /></a>
