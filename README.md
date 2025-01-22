@@ -3,6 +3,13 @@ I'm a DevOps Engineer at UST with a strong passion for learning and exploring ne
 
 I'm currently enhancing my skills in Data Structures and Algorithms 🤓, while constantly exploring the latest advancements in cloud technologies and DevOps tools to stay at the forefront of the industry.
 
+### Talking about Personal Stuffs:
+
+- 🔭 I’m currently working at **UST.**
+
+- 🌱 I’m currently learning **AWS and focusing on DSA.**
+
+- 📫 How to reach me **kaushaldarji7182@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/dkaushaldarji7182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-panchal-45a353219" height="30" width="40" /></a>
