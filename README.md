@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/dkaushaldarji7182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-panchal-45a353219" height="30" width="40" /></a>
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=darshan472002&label=Profile%20views&color=0e75b6&style=flat" alt="kaushaldarji7182" />
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kaushaldarji7182)
+
 
 
 
