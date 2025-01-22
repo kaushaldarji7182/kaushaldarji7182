@@ -2,9 +2,8 @@
 <h3 align="left">Connect with me:</h3>
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=darshan472002&label=Profile%20views&color=0e75b6&style=flat" alt="darshan472002" />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kaushaldarji7182)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/darshan-panchal-45a353219)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)](#)
 
 
 
