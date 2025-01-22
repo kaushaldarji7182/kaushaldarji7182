@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaushal Darji</h1>
 <h3 align="left">Connect with me:</h3>
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=darshan472002&label=Profile%20views&color=0e75b6&style=flat" alt="darshan472002" />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kaushaldarji7182)
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=darshan472002&label=Profile%20views&color=0e75b6&style=flat" alt="kaushaldarji7182" />
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kaushaldarji7182)
+
 
 
 
