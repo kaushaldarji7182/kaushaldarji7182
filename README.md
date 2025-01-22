@@ -6,9 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/darshan-panchal-45a353219)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)](#)
 
-I'm a currently pursuing B.E in Computer Engineering 🎓 from Mumbai University 🏛. I'm a enthusiastic learner who is eager to learn and work across new technologies and domains 💡. I'm currently into Web & App Development and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### Talking about Personal Stuffs:
 <p align="left">
